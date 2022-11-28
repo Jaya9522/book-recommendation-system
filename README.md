@@ -1,5 +1,6 @@
 # book-recommendation-system
-unsupervised machine learning project book recommendation system
+![image](https://user-images.githubusercontent.com/98402439/204297885-c4c98387-f31e-4947-9711-3ff27e693344.png)
+
 
 ## Problem Statement
 During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. 
@@ -9,6 +10,12 @@ From e-commerce (suggest to buyers articles that could interest them) to online 
 In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy, or anything else depending on industries).
 
 Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. The main objective is to create a book recommendation system for users.
+
+* EDA - Performed exploratory data analysis on numerical and categorical data.
+* Data Cleaning - Missing value imputation,Outlier Treatment
+* Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
+* Model development - Tried Popularity based model and Collaborative filtering.
+
 
 ## The Data
 The Book-Crossing dataset comprises 3 files.
@@ -25,6 +32,13 @@ Contains the book rating information. Ratings (Book-Rating) are either explicit,
 ## Dataset
 https://drive.google.com/drive/folders/1ezD81dd7Ouy-j5hC3sag699MoE-zMVLq?usp=share_link
 
+## Objective
+The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
+### Methods Used
+* Descriptive Statistics
+* Data Visualization
+* Machine Learning
+
 ## Technolodgy
 Popularity Based Filtering
 
@@ -35,6 +49,12 @@ Optimisation of SVD algorithm
 Collaborative Filtering based Recommendation System
 
 Implementing KNN
+
+Popularity Based Recommender
+It is a type of recommendation system which works on the principle of popularity and or anything which is in trend. These systems check about the books which are in trend or are most popular among the users and directly recommend them.
+
+📖 Collaborative-based Filtering
+Collaborative based filtering recommender systems are based on past interactions of users and target items. In simple words here, we try to search for the look-alike customers and offer products based on what his or her lookalike has chosen. Let us understand with an example. X and Y are two similar users and X user has watched A, B, and C movie. And Y user has watched B, C, and D movie then we will recommend A movie to Y user and D movie to X user.
 
 ## Conclusion
 * In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
