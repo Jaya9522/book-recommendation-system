@@ -2,8 +2,12 @@
 unsupervised machine learning project book recommendation system
 
 ## Problem Statement
-During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
+During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. 
+
+From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
+
 In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy, or anything else depending on industries).
+
 Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. The main objective is to create a book recommendation system for users.
 
 ## The Data
@@ -22,7 +26,15 @@ Contains the book rating information. Ratings (Book-Rating) are either explicit,
 https://drive.google.com/drive/folders/1ezD81dd7Ouy-j5hC3sag699MoE-zMVLq?usp=share_link
 
 ## Technolodgy
-Popularity Based Filtering,Model Based Collaborative Filtering Recommender,Optimisation of SVD algorithm,Collaborative Filtering based Recommendation System,Implementing KNN
+Popularity Based Filtering
+
+Model Based Collaborative Filtering Recommender
+
+Optimisation of SVD algorithm
+
+Collaborative Filtering based Recommendation System
+
+Implementing KNN
 
 ## Conclusion
 * In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
