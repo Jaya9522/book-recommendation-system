@@ -21,6 +21,9 @@ Contains the book rating information. Ratings (Book-Rating) are either explicit,
 ## Dataset
 https://drive.google.com/drive/folders/1ezD81dd7Ouy-j5hC3sag699MoE-zMVLq?usp=share_link
 
+## Technolodgy
+Popularity Based Filtering,Model Based Collaborative Filtering Recommender,Optimisation of SVD algorithm,Collaborative Filtering based Recommendation System,Implementing KNN
+
 ## Conclusion
 * In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
 * Majority of the readers were of the age bracket 20-35 and most of them came from North American and European countries namely USA, Canada, UK, Germany and Spain.
