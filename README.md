@@ -63,3 +63,16 @@ Collaborative based filtering recommender systems are based on past interactions
 * Author with the most books was Agatha Christie, William Shakespeare and Stephen King.
 * For modelling, it was observed that for model based collaborative filtering SVD technique worked way better than NMF with lower Mean Absolute Error (MAE) .
 * Amongst the memory based approach, item-item CF performed better than user-user CF because of lower computation .
+
+## References
+Shivam Baldha, 'Introduction to Collaborative Filtering'. [Online].
+
+Available: https://www.analyticsvidhya.com/blog/2022/02/introduction-to-collaborative-filtering/
+
+Alexandre Wrg, 'An overview of several recommendation systems'. [Online].
+
+Available: https://towardsdatascience.com/an-overview-of-several-recommendation-systems-f9f8afbf00ea/
+
+Youtube.com, 'Book Recommender System'. [Online].
+
+Available: https://www.youtube.com/watch?v=1YoD0fg3_EM&t=1s/
