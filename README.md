@@ -18,10 +18,13 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 ● Ratings :
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
+## Dataset
+https://drive.google.com/drive/folders/1ezD81dd7Ouy-j5hC3sag699MoE-zMVLq?usp=share_link
+
 ## Conclusion
-In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
-Majority of the readers were of the age bracket 20-35 and most of them came from North American and European countries namely USA, Canada, UK, Germany and Spain.
-If we look at the ratings distribution, most of the books have high ratings with maximum books being rated 8. Ratings below 5 are few in number.
-Author with the most books was Agatha Christie, William Shakespeare and Stephen King.
-For modelling, it was observed that for model based collaborative filtering SVD technique worked way better than NMF with lower Mean Absolute Error (MAE) .
-Amongst the memory based approach, item-item CF performed better than user-user CF because of lower computation .
+* In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
+* Majority of the readers were of the age bracket 20-35 and most of them came from North American and European countries namely USA, Canada, UK, Germany and Spain.
+* If we look at the ratings distribution, most of the books have high ratings with maximum books being rated 8. Ratings below 5 are few in number.
+* Author with the most books was Agatha Christie, William Shakespeare and Stephen King.
+* For modelling, it was observed that for model based collaborative filtering SVD technique worked way better than NMF with lower Mean Absolute Error (MAE) .
+* Amongst the memory based approach, item-item CF performed better than user-user CF because of lower computation .
